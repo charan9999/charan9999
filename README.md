@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **charan9999/charan9999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[(https://github.com/charan9999/charan9999/blob/master/readme.gif)]
+
+Hi. I’m Charan. I like to work on front-end projects with the possibility of not using any frameworks and built custom components to have greater control and efficiency. 
+
+I also work on projects related to UI and replicating websites to understand how things are built.
