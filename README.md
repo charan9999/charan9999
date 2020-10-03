@@ -2,4 +2,4 @@
 
 Hi. I’m Charan. I like to work on front-end projects with the possibility of not using any frameworks and build custom components to have greater control and efficiency. 
 
-I also work on projects related to UI and replicating websites to understand how things are built.
+I also work on projects related to UI and replicating existing websites to understand how things are built.
